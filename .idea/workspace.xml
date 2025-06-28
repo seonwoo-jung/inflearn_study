@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0edea529-9729-4f43-814e-2b65dd0d6bbd" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/java/hello/springmvc/SpringmvcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/java/hello/springmvc/basic/LogTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/java/hello/springmvc/basic/requestmapping/MappingClassController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/java/hello/springmvc/basic/requestmapping/MappingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/resources/static/basic/hello-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc1/src/test/java/hello/springmvc/SpringmvcApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/core">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/spring-mvc-1/springmvc">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/core">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inflearn_study" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inflearn_study" type="f1a62948:ProjectNode" />
+                <item name="실행 구성" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2z8Y3mMDwPof4AiJEuFaXzj9ukP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Gradle.C:/Programming/inflearn_study [build clean].executor": "Run",
+    "Gradle.core [build].executor": "Run",
+    "Gradle.inflearn_study 빌드.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ItemServiceApplication.executor": "Run",
+    "Spring Boot.SpringmvcApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Programming/inflearn_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "settings.editor.splitter.proportion": "0.29371315",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\inflearn_study" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\inflearn_study" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="./gradlew build --info " />
+      <command value="gradle build clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringmvcApplication">
+    <configuration name="C:/Programming/inflearn_study [build clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="core [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inflearn_study.core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.core.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="core.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.core.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inflearn_study.spring-mvc-1.item-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.itemservice.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inflearn_study.spring-mvc-1.servlet.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringmvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springmvc1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.springmvc.SpringmvcApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.springmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringmvcApplication" />
+        <item itemvalue="Gradle.C:/Programming/inflearn_study [build clean]" />
+        <item itemvalue="Gradle.core [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="0edea529-9729-4f43-814e-2b65dd0d6bbd" name="변경" comment="" />
+      <created>1751113970621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751113970621</updated>
+      <workItem from="1751113971809" duration="501000" />
+      <workItem from="1751114491918" duration="1590000" />
+      <workItem from="1751116110404" duration="90000" />
+      <workItem from="1751116411898" duration="44000" />
+      <workItem from="1751116549785" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

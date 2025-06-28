@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/spring-mvc-1" />
+            <option value="$PROJECT_DIR$/spring-mvc-1/item-service" />
+            <option value="$PROJECT_DIR$/spring-mvc-1/servlet" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/springmvc" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/springmvc" />
-          </set>
-        </option>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-mvc-1/item-service" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-mvc-1/servlet" />
       </GradleProjectSettings>
     </option>
   </component>

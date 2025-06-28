@@ -6,16 +6,36 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="inflearn_study.core.main" />
+        <module name="inflearn_study.core.test" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.28/a2ff5da8bcd8b1b26f36b806ced63213362c6dcc/lombok-1.18.28.jar" />
         </processorPath>
-        <module name="springmvc.main" />
+        <module name="inflearn_study.spring-mvc-1.servlet.main" />
+        <module name="inflearn_study.spring-mvc-1.item-service.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17">
-      <module name="springmvc" target="11" />
+    <bytecodeTargetLevel>
+      <module name="core" target="17" />
+      <module name="springmvc1" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="inflearn_study.core" options="-parameters" />
+      <module name="inflearn_study.core.main" options="-parameters" />
+      <module name="inflearn_study.core.test" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.item-service" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.item-service.main" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.item-service.test" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.servlet" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.servlet.main" options="-parameters" />
+      <module name="inflearn_study.spring-mvc-1.servlet.test" options="-parameters" />
+    </option>
   </component>
 </project>
